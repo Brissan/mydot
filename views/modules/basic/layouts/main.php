@@ -5,8 +5,8 @@
  * @var $this \app\components\WebView
  */
 
-use app\web\theme\extensions\DefaultTheme\assets\DefaultThemeAsset;
-use app\web\theme\extensions\DefaultTheme\models\ThemeParts;
+use app\extensions\DefaultTheme\assets\DefaultThemeAsset;
+use app\extensions\DefaultTheme\models\ThemeParts;
 use app\web\theme\module\assets\ThemeAsset;
 use app\modules\seo\helpers\HtmlTagHelper;
 use yii\helpers\Html;
