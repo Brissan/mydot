@@ -24,14 +24,14 @@ $navStyles = '';
 ?>
 
 
-<header>
+    <header>
             <div class="header-top">
                 <div class="container">
                     <div class="header-container">
                         <div class="row">
                             <div class="col-md-6 col-sm-7">
                                 <div class="header-contact">
-                                    <span class="email">Email: admin@bootexperts.com </span> / <span class="phone">Phone: +234.546.657</span>
+                                    <span class="email">Email: 1.com </span> / <span class="phone">Phone: +234.546.657</span>
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-5">
